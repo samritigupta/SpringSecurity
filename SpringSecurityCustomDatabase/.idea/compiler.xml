@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringAOP" />
+        <module name="SpringSecurityAdvance2" />
+        <module name="SpringSecurityAdvance" />
+        <module name="SpringSecurity" />
+        <module name="SpringMVCHibernateCRM" />
+        <module name="SpringSecurityDatabase" />
+        <module name="SpringSecurityPasswordEncryption" />
+        <module name="SpringMVC" />
+        <module name="DummyTest1" />
+        <module name="SpringSecurityCustomDatabase" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DummyTest1" options="-parameters" />
+      <module name="SpringAOP" options="-parameters" />
+      <module name="SpringMVC" options="-parameters" />
+      <module name="SpringMVCHibernateCRM" options="-parameters" />
+      <module name="SpringSecurity" options="-parameters" />
+      <module name="SpringSecurityAdvance" options="-parameters" />
+      <module name="SpringSecurityAdvance2" options="-parameters" />
+      <module name="SpringSecurityCustomDatabase" options="-parameters" />
+      <module name="SpringSecurityDatabase" options="-parameters" />
+      <module name="SpringSecurityPasswordEncryption" options="-parameters" />
+    </option>
+  </component>
+</project>
