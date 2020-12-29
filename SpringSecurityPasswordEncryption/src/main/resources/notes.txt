@@ -1,0 +1,6 @@
+https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash-passwords-af330100b861
+https://en.wikipedia.org/wiki/Bcrypt
+https://crackstation.net/hashing-security.htm
+https://www.bcryptcalculator.com/
+
+
