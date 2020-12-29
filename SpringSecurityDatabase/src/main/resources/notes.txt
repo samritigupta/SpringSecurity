@@ -1,0 +1,3 @@
+- on jsp if want to show data based on role use
+<%@ taglib prefix="security" uri="http://www.springframework.org/security/tags" %>ß
+<security:authorize access="hasRole('MANAGER')">
